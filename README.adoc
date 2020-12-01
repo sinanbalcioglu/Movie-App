@@ -1,14 +1,14 @@
-==== Netflix Klon Uygulaması
+== Netflix Klon Uygulaması
 
 *Amaç:* Masaüstü uygulaması geliştirirken veri tabanı yönetim sistemlerinin yapısını anlaması ve çözüm sağlayabilmesi amaçlanmaktadır.Projenin içerikleri video olarak barındırması beklenmemektedir. Standart kullanıcı işlemlerinin veritabanı ile etkileşimi üzerine çalışma yapılmıştır.
 
 Programlama dili olarak Java, arayüz olarak Swing GUI, veri tabanı yönetim sistemi olarak MySQL ve IDE olarak NetBeans kullanılmıştır.
 
-===== Veritabanı Tasarımı
+=== Veritabanı Tasarımı
 
 image::img/1.jpg[width=500px]
 
-===== Uygulama içi görseller
+=== Uygulama içi görseller
 
 *Giriş Sayfası*
 
